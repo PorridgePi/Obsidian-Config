@@ -4,7 +4,7 @@
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,
-  "processLineBreak": false,
+  "processLineBreak": true,
   "processTab": false,
   "prefillFind": false
 }
