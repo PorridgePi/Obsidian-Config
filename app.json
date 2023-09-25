@@ -1,1 +1,10 @@
-{}
+{
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "useTab": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "inbox/",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "attachments/"
+}
