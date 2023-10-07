@@ -6,6 +6,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "inbox/",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "attachments/",
+  "attachmentFolderPath": "assets/",
   "newLinkFormat": "shortest"
 }
