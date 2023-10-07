@@ -5,5 +5,12 @@
   "obsidian-git",
   "obsidian-outliner",
   "obsidian-minimal-settings",
-  "obsidian-regex-replace"
+  "obsidian-regex-replace",
+  "obsidian-advanced-uri",
+  "OA-file-hider",
+  "obsidian-icon-folder",
+  "note-refactor-obsidian",
+  "omnisearch",
+  "text-extractor",
+  "wikilinks-to-mdlinks-obsidian"
 ]
