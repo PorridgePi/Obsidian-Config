@@ -9,5 +9,7 @@
   "attachmentFolderPath": "assets/",
   "newLinkFormat": "shortest",
   "defaultViewMode": "source",
-  "livePreview": true
+  "livePreview": true,
+  "foldHeading": true,
+  "foldIndent": true
 }
