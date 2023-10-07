@@ -7,5 +7,7 @@
   "newFileFolderPath": "inbox/",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "assets/",
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "shortest",
+  "defaultViewMode": "source",
+  "livePreview": true
 }
