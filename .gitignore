@@ -1,6 +1,12 @@
-# macOS
+## macOS
 .DS_Store
 
-# Obsidian
+## Obsidian
 # exclude workspace cache
 workspace.json
+
+# WeRead Plugin Data
+plugins/obsidian-weread-plugin/data.json
+
+# Omnisearch Plugin Cache
+plugins/text-extractor/cache/*
