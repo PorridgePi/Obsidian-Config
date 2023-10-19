@@ -4,6 +4,7 @@
 ## Obsidian
 # exclude workspace cache
 workspace.json
+graph.json
 
 # WeRead Plugin Data
 plugins/obsidian-weread-plugin/data.json
