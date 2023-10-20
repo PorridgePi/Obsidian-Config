@@ -29,3 +29,17 @@ cd ..
 git add .obsidian
 git commit -m 'config: chore: update config'
 ```
+
+### Custom appearance.json (i.e. accent colour)
+To ignore future changes:
+```sh
+git update-index --assume-unchanged appearance.json
+```
+
+To undo:
+```sh
+git update-index --no-assume-unchanged appearance.json
+```
+
+**Reference**
+- [Stack Overflow](https://stackoverflow.com/questions/26854559/add-a-file-to-a-git-repository-but-ignore-future-changes-on-it)
