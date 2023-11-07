@@ -4,6 +4,7 @@
 ## Obsidian
 # exclude workspace cache
 workspace.json
+workspace-mobile.json
 # exclude graph configuration due to its dynamic nature
 graph.json
 
