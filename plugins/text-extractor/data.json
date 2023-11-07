@@ -1,7 +1,7 @@
 {
   "ocrLanguages": [
-    "eng",
-    "chi_sim"
+    "chi_sim",
+    "eng"
   ],
   "rightClickMenu": true
 }
