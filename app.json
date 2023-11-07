@@ -4,7 +4,7 @@
   "useTab": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "inbox/",
+  "newFileFolderPath": "pages/",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "assets/",
   "newLinkFormat": "shortest",
