@@ -14,5 +14,7 @@
   "text-extractor",
   "wikilinks-to-mdlinks-obsidian",
   "obsidian-weread-plugin",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "memos-sync",
+  "dataview"
 ]
