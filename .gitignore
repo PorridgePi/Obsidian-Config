@@ -11,5 +11,8 @@ graph.json
 # WeRead Plugin Data
 plugins/obsidian-weread-plugin/data.json
 
+# Memos Plugin Data
+plugins/memos-sync/data.json
+
 # Omnisearch Plugin Cache
 plugins/text-extractor/cache/*
